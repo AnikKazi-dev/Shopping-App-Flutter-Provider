@@ -38,13 +38,18 @@
 
 ## About the project
 
-* **XXXXXX**: XXX.
-* **XXXX**: XXXXXXXX.
+* **State management**: Provider.
+* **Backend connection**: Firebase.
 
 ## Key Features
-
-* **State management**: Redux, BloC, repository patterns .
-* **Backend connection**: API provider pattern.
+• Create an account with just a few taps
+• Personalized product
+• Edit Product information
+• Add to favorite
+• Product Overview
+• Order management
+• Pick your items
+• Proceed to the shopping cart
 
 ## Built With
 
