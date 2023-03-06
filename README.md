@@ -42,14 +42,14 @@
 * **Backend connection**: Firebase.
 
 ## Key Features
-• Create an account with just a few taps
-• Personalized product
-• Edit Product information
-• Add to favorite
-• Product Overview
-• Order management
-• Pick your items
-• Proceed to the shopping cart
+• Create an account with just a few taps  
+• Personalized product  
+• Edit Product information  
+• Add to favorite  
+• Product Overview  
+• Order management  
+• Pick your items  
+• Proceed to the shopping cart  
 
 ## Built With
 
